@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/libowen/Study/udemy/design_pattern/code/Flyweight/main.cpp
+string
+-
+sstream
+-
+map
+-
+vector
+-
+iostream
+-
+algorithm
+-
+

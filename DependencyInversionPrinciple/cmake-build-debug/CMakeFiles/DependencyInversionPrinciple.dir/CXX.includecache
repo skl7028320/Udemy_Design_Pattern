@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/libowen/Study/udemy/design_pattern/code/DependencyInversionPrinciple/main.cpp
+iostream
+-
+string
+-
+vector
+-
+tuple
+-
+

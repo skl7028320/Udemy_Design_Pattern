@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/libowen/Study/udemy/design_pattern/code/Composite/exercise.cpp
+exercise.h
+/Users/libowen/Study/udemy/design_pattern/code/Composite/exercise.h
+
+/Users/libowen/Study/udemy/design_pattern/code/Composite/exercise.h
+iostream
+-
+string
+-
+vector
+-
+numeric
+-
+
